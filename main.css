@@ -1,4 +1,4 @@
-body { background-image:url(https://www.ft.com/__origami/service/image/v2/images/raw/http://prod-upp-image-read.ft.com/e9a0d7ee-a1be-11e8-85da-eeb7a9ce36e4?source=next&fit=scale-down&quality=highest&width=800
+body { background-image: url("https://www.ft.com/__origami/service/image/v2/images/raw/http://prod-upp-image-read.ft.com/e9a0d7ee-a1be-11e8-85da-eeb7a9ce36e4?source=next&fit=scale-down&quality=highest&width=800")
   margin: 30px auto;
   max-width: 1000px;
   font-family: "roboto","Helvetica", "Arial", sans-serif;
