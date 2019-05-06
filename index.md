@@ -1,3 +1,17 @@
 ## Welcome to my site!
-
-
+<!DOCTYPE html>
+<html>
+<head>
+	<title>JaneseAnderson</title>
+</head>
+<body>
+	<div class="container">
+	<link rel="stylesheet" type="text/css" href="CSS/Style.css">
+ <nav>
+  <ul>
+    <li><a href="ArtWebsite.html">Home</a></li>
+    <li><a href="Sublime About page.html">About</a></li>
+    <li><a href="ArtWebsiteportfoli.html">Art</a></li>
+    <li><a href="ArtistStatement.html">Artist Statement</a><li>
+  </ul>
+</nav>
