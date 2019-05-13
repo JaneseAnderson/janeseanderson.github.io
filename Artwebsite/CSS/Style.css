@@ -14,8 +14,9 @@ body{
 width: 70%;
 background-color: white;
 font-family: "raleway", sans-serif;
+font-size: 16;
 margin: auto;
-padding: 20%;
+padding: auto;
 text-align: left;
 }
 ul{background-color: #AF7AC5;
