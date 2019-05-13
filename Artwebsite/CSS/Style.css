@@ -10,8 +10,14 @@ body{
 
 }
 
-
-{}
+.container{
+width: 70%;
+background-color: white;
+font-family: "raleway", sans-serif;
+margin: auto;
+padding: 20%;
+text-align: left;
+}
 ul{background-color: #AF7AC5;
 	width:20%;
 }
