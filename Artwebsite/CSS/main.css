@@ -1,6 +1,6 @@
 background: url(https://designshack.net/wp-content/uploads/abstract-background.jpg)
 body {
-  background: url(https://designshack.net/wp-content/uploads/abstract-background.jpg)
+  background-image:url(https://designshack.net/wp-content/uploads/abstract-background.jpg);
   margin: 30px auto;
   max-width: 1000px;
   font-family: "roboto","Helvetica", "Arial", sans-serif;
